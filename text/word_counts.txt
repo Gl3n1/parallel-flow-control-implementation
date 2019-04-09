@@ -1,0 +1,85 @@
+Homepage
+OneZero
+CONSUMER TECHDIGITAL LIFEINDUSTRYSCIENCE & MEDICINE
+Google Could Learn a Lot About You From Its New Gaming Platform
+Stadia sounds great, but don’t forget that Google is a research company
+Go to the profile of Eric Ravenscraft
+Eric Ravenscraft
+Apr 5
+
+Illustration: Yoshi Sodeoka
+
+For all of Google’s colorful products and silly games — not to mention the search engine you use every day — it’s easy to forget that it’s also one of the world’s biggest research companies. It gathers data on everything from education to UX design to artificial intelligence. It even studies how you use sites like YouTube and Gmail. So, what could it do with the kind of data it gets from users through its new Stadia game-streaming platform?
+
+If Stadia works as described, it has the potential to upend how the gaming industry works. But it will also give Google a trove of data it didn’t have before. Basic information like what games a user buys, how long they play, and what devices they play on can provide valuable insights that might help Google do what it does best: sell ads.
+
+“A good psychologist should be able to watch how most of us game and understand a whole lot about us.”
+But how you play your games may be the most valuable data of all, according to Jon Festinger, a professor at the Centre for Digital Media, a graduate program in Canada that focuses on design. While Google can already gauge your interests or political leanings from things like your search history, video games involve actively making decisions that reveal a surprisingly intimate picture of who you are.
+
+“It’s a walking, talking Rorschach test onto which you project your decision-making,” Festinger says. “Are you timid? Are you bold? Do you take risks? What kind of risks do you take? What do you see and not see? Where are your blind spots? A good psychologist should be able to watch how most of us game and understand a whole lot about us.”
+
+Bethesda and Ubisoft, two game publishers partnering with Google on Stadia, didn’t immediately respond to questions about whether their titles would be used for data collection purposes. But even without publisher involvement, video games have been used to research how people think. For example, researchers have examined teamwork dynamics by studying guilds in World of Warcraft and have studied voice chat to learn how men and women are treated differently.
+
+Rachel Kowert, PhD, research director at Take This, a nonprofit aimed at increasing support for mental health issues in the gaming community, explains the situation this way to OneZero: “In online games, I would measure the distance that people stand from one another in-game. What level of intimacy does that show? How many social interactions are they having with people when they play role-playing games versus when they’re playing first-person shooters?”
+
+This kind of existing research is often done with very limited pools of data, usually provided by how players describe themselves. “We ask players to recall what behavior they have in-game, how much time they’re spending in-game,” Kowert says.
+
+“Google’s going to have players’ data across age, across region, across gender, across genre.” This is on top of the data it already collects from your email, search history, location history, and more.
+Game developers have also started studying their own player data in recent years, but they usually keep their analytics in-house. Google’s house is much larger. While a company like World of Warcraft developer Blizzard might study player behavior in order to improve a game or come up with a new monetization scheme, Google has its fingers in everything from smartphone software to home automation and security.
+
+“I think the unique advantage that Google’s going to have is players’ data across age, across region, across gender, across genre,” Kowert says. This is, of course, on top of the data the company already collects from your email, search history, location history, and more.
+
+Since 2012, the company’s privacy policy has allowed Google to combine data collected about you from one service with all the data it gets from the others. So far, Stadia has been marketed as a Google service (and even has a spot in the Google Store), so it’s reasonable to assume data collected about you via Stadia could end up connected to everything else Google knows about you.
+
+When reached for comment about whether Google will conduct research on users or develop non-gaming products with player data, a Google representative simply said that the company “will have more to share on platform specifics as we get closer to launch.”
+
+However, we know Google can use seemingly unimportant data to build powerful products. Back in 2007, the company launched a telephone search service called GOOG-411, itself a subset of its VOIP and voicemail service, Google Voice. Users of GOOG-411 could call a toll-free number to search for local businesses. Since smartphones weren’t common yet, it was a valuable free service for consumers.
+
+And Google got something out of the deal: phonemes. In an interview at the 2007 Web 2.0 Summit, Marissa Mayer, then Google’s vice president of search products and user experience, explained that people who used the service provided Google the speech samples it needed to build a robust speech-to-text product.
+
+“The speech recognition experts that we have say, ‘If you want us to build a really robust speech model, we need a lot of phonemes,’ which is a syllable as spoken by a particular voice with a particular intonation… So, 1-800-GOOG-411 is about that,” Mayer said.
+
+At launch, the only hint that GOOG-411 was using your voice data to bolster its phonemes was buried in its privacy policy. It was covered in the news as a basic 411 service; its larger goal was revealed months later.
+
+This gave Google an edge in the still-burgeoning voice command market. By 2010 — shortly before GOOG-411 was shut down for good — the company introduced Voice Actions for its Android phones. Eventually this feature was integrated into Google Now. After a rebrand in 2016, it became Google Assistant, which is used on more than 1 billion devices today and could bring the next billion users online.
+
+Google continues to use this strategy even today. “Google Goggles” was a neat machine learning–powered visual search toy, but engineers internally considered it a “research project.” Today, that research has led to Google Lens, an augmented reality app. Niantic, an internal Google startup, created a game called Ingress that solicited more than 5 million location submissions from players. That data went on to form the basis of the wildly popular Pokémon Go. The recently shuttered Inbox app was used to test email features that were eventually implemented in Gmail.
+
+It’s impossible to say for certain what kind of products, features, or insights Google could get from analyzing player data. After all, it would’ve been impossible in 2007 to predict that a 411 number would be the seed that grew into a voice assistant that’s always listening to you. We know player data is useful and valuable, but we don’t know with certainty what it could lead to.
+
+What is certain is that Google knows how to leverage seemingly innocuous data from one product and use it to refine or even launch an entirely new industry. For now, there’s still a lot we don’t know about how Stadia will work, if it will catch on, or if it will wind up in the Google Cemetery a few years down the road. When it arrives, though, don’t forget to check that privacy policy.
+
+PrivacyDataGoogleTechnologyGaming
+Go to the profile of Eric Ravenscraft
+Eric Ravenscraft
+Medium member since Feb 2019
+Eric Ravenscraft is a freelance writer from Atlanta covering tech, media, and geek culture for Medium, The New York Times, and more.
+
+OneZero
+OneZero
+Medium’s technology and science publication
+
+More on Technology from OneZero
+The Efficiency Delusion
+Go to the profile of Evan Selinger
+Evan Selinger
+Apr 9
+More on Technology from OneZero
+Unintended Consequences in Silicon Valley
+Go to the profile of Ann Grimes
+Ann Grimes
+Apr 8
+More on Google from OneZero
+Your Smartphone Apps Are Filled With Trackers You Know Nothing About
+Go to the profile of Owen Williams
+Owen Williams
+Apr 8
+Responses
+Glen Lexry Wan
+Write a response…
+Glen Lexry Wan
+3
+2
+1
+0
+Some thoughts are worth more than a penny.
